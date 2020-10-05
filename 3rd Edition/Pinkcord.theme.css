@@ -344,10 +344,6 @@ div[class*=search-] div[class*=search-] div[class*=searchBar-]{background:0 0!im
 .container-2VW0UT:before,
 .sidebar-2K8pFh.hideElement .container-3baos1:before,
 .guildSettingsAuditLogsUserFilterPopout-3Jg5NE:before {
-  height: calc(100% + var(--popout-blur) * 5);
-  width: calc(100% + var(--popout-blur) * 5);
-  top: calc(var(--popout-blur) / -1 * 2.5);
-  left: calc(var(--popout-blur) / -1 * 2.5);
   background-color: transparent;
   background-image: var(--app-bg);
   background-repeat: no-repeat;
