@@ -4,7 +4,7 @@
  * @source https://pastebin.com/c96pKVCR
  * @author CapnKitten & Customized by BruhDev
  * @authorLink https://betterdiscordlibrary.com/users/CapnKitten & https://bruhdev.com
- * @version 1.0
+* @version 1.1
  * @website https://bruhdev.com/
 */
  
@@ -14,7 +14,7 @@
   --app-margin: 24px;
   --app-radius: 8px;
   --app-accent: #ffc0cb;
-  --app-accent-rgb: 215,61,61;
+  --app-accent-rgb: 255, 192, 203;
   --app-accent-text: #000;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
